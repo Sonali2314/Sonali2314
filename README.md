@@ -27,15 +27,15 @@ Frontend development technologies to build interactive web applications.
 ## 🛠️ Technologies & Tools:
 
 ## Languages:
-[C]()
-[C++]()
-[Java]()
-[Python]()
+[![C]]()
+[![C++]]()
+[![Java]]()
+[![Python]]
 
 ## Frontend Development:
-[HTML]()
-[CSS]()
-[JavaScript]()
+[![HTML]]
+[![CSS]]
+[![JavaScript]]
 
 ## ⚡Tools & Platforms:
 Git & GitHub
@@ -47,11 +47,19 @@ VS Code
 [E-mail](sonaligolden23@gmail.com)
 
 ## ✨ Also see my other profiles:
-[LeetCode]()
+[LeetCode](https://leetcode.com/u/sonaligolden23/)
 [HackerRank](https://www.hackerrank.com/profile/sonaligolden23)
+
+## 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sonali2314&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali2314&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+<!--SPRX77-->
+
 
 <!---📂 Some of My Projects:
 Project Name: A brief description of what this project does and the technologies used.
 Another Project Name: A brief description of what this project does and the technologies used.
 -->
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+[![](https://visitcount.itsvg.in/api?id=PATILYASH007&icon=0&color=0)](https://visitcount.itsvg.in)
