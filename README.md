@@ -27,27 +27,27 @@ Frontend development technologies to build interactive web applications.
 ## 🛠️ Technologies & Tools:
 
 ## Languages:
-[![C]]()
-[![C++]]()
-[![Java]]()
-[![Python]]
+C<br/>
+C++<br/>
+Java<br/>
+Python
 
 ## Frontend Development:
-[![HTML]]
-[![CSS]]
-[![JavaScript]]
+HTML<br/>
+CSS<br/>
+JavaScript
 
 ## ⚡Tools & Platforms:
-Git & GitHub
-Jupyter Notebook
+Git & GitHub<br/>
+Jupyter Notebook<br/>
 VS Code
 
 ## 📫 How to Reach Me:
-[LinkedIn](https://www.linkedin.com/in/sonali-patil-662388257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[LinkedIn](https://www.linkedin.com/in/sonali-patil-662388257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<br/>
 [E-mail](sonaligolden23@gmail.com)
 
 ## ✨ Also see my other profiles:
-[LeetCode](https://leetcode.com/u/sonaligolden23/)
+[LeetCode](https://leetcode.com/u/sonaligolden23/)<br/>
 [HackerRank](https://www.hackerrank.com/profile/sonaligolden23)
 
 ## 📊 GitHub Stats:
