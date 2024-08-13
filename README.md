@@ -62,5 +62,5 @@ Another Project Name: A brief description of what this project does and the tech
 -->
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
-![Profile Activity](https://img.shields.io/badge/:badgeContent?style=social&logoColor=2E8B57&label=Profile%20Activity&color=2E8B57)
+![](https://img.shields.io/badge/:badgeContent?style=social&logoColor=2E8B57&label=Profile%20Activity&color=2E8B57)
 
