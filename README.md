@@ -43,24 +43,39 @@ Jupyter Notebook<br/>
 VS Code
 
 ## 📫 How to Reach Me:
-[LinkedIn](https://www.linkedin.com/in/sonali-patil-662388257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<br/>
-[E-mail](sonaligolden23@gmail.com)
 
+<a href="https://www.linkedin.com/in/sonali-patil-662388257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <img src="https://img.shields.io/badge/Connect_with_me_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:sonaligolden23@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Send-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<br/>
 ## ✨ Also see my other profiles:
-[LeetCode](https://leetcode.com/u/sonaligolden23/)<br/>
-[HackerRank](https://www.hackerrank.com/profile/sonaligolden23)
+
+<a href="https://leetcode.com/u/sonaligolden23/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Challenge_Yourself-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+</a>
+<a href="https://www.hackerrank.com/profile/sonaligolden23" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-Practice-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+</a>
+<br/>
+## My Badges
+
+![My Badges in HackerRank](assets/images/badges_hackerrank.png)
+<br/>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sonali2314&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali2314&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-<!--SPRX77-->
-
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali2314&layout=compact&theme=radical)<br/><br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sonali2314&theme=radical)<br/>
 
 <!---📂 Some of My Projects:
 Project Name: A brief description of what this project does and the technologies used.
 Another Project Name: A brief description of what this project does and the technologies used.
 -->
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+###🌟 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 
+###🤝 You're also welcome to use my README as inspiration for creating your own profile. 💡 I'm always here to help if you need any assistance. 😊
 
 [![](https://visitcount.itsvg.in/api?id=Sonali2314&label=Profile%20Activity&color=2&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
