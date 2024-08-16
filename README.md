@@ -50,6 +50,8 @@ VS Code
 <a href="mailto:sonaligolden23@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Send-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
+<br/>
+
 ## ✨ Also see my other profiles:
 
 <a href="https://leetcode.com/u/sonaligolden23/" target="_blank">
@@ -72,8 +74,8 @@ Project Name: A brief description of what this project does and the technologies
 Another Project Name: A brief description of what this project does and the technologies used.
 -->
 
-###🌟 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 
-###🤝 You're also welcome to use my README as inspiration for creating your own profile. 💡 I'm always here to help if you need any assistance. 😊
+### 🌟 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 
+### 🤝 You're also welcome to use my README as inspiration for creating your own profile. 💡 I'm always here to help if you need any assistance. 😊
 
 [![](https://visitcount.itsvg.in/api?id=Sonali2314&label=Profile%20Activity&color=2&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
