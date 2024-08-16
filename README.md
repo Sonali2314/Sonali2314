@@ -63,7 +63,7 @@ VS Code
 
 ## My Badges
 
-![My Badges in HackerRank](assets/images/badges_hackerrank.png)
+![My Badges in HackerRank](assets/badges_hackerrank.png)
 
 ## 📊 GitHub Stats:
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali2314&layout=compact&theme=radical)<br/><br/>
