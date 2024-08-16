@@ -50,7 +50,6 @@ VS Code
 <a href="mailto:sonaligolden23@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Send-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<br/>
 ## ✨ Also see my other profiles:
 
 <a href="https://leetcode.com/u/sonaligolden23/" target="_blank">
@@ -59,11 +58,10 @@ VS Code
 <a href="https://www.hackerrank.com/profile/sonaligolden23" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-Practice-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
 </a>
-<br/>
+
 ## My Badges
 
 ![My Badges in HackerRank](assets/images/badges_hackerrank.png)
-<br/>
 
 ## 📊 GitHub Stats:
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali2314&layout=compact&theme=radical)<br/><br/>
