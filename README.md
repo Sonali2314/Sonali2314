@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # I'm Sonali Patil 👋
-## About Me
+## 😄 About Me
 I’m a third-year B.Tech student in Computer Science and Engineering with a focus on Artificial Intelligence. Passionate about AI and Machine Learning, I’m always eager to dive into new technologies and solve interesting problems.
 
 ## 🔭 Currently Working On:
@@ -63,11 +63,14 @@ VS Code
 
 ## My Badges
 
-![My Badges in HackerRank](badges_hackerrank.png)
+<img src="badges_hackerrank.png" alt="My Badges in HackerRank" width="300">
 
-## 📊 GitHub Stats:
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali2314&layout=compact&theme=radical)<br/><br/>
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sonali2314&theme=radical)<br/>
+## 📊 My GitHub Stats:
+<div align=left>
+<img width=390 src="https://streak-stats.demolab.com/?user=Sonali2314&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br/><br/>
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali2314&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
 
 <!---📂 Some of My Projects:
 Project Name: A brief description of what this project does and the technologies used.
