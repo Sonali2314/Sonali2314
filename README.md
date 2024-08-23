@@ -95,7 +95,10 @@ Frontend development technologies to build interactive web applications.<br/><br
 
 ## My Badges
 
-<img src="badges_hackerrank.png" alt="My Badges in HackerRank" width="300">
+<a href="https://www.hackerrank.com/profile/sonaligolden23" target="_blank">
+    <img src="badges_hackerrank.png" alt="My Badges in HackerRank" width="300">
+</a>
+
 
 ## 📊 My GitHub Stats:
 <div align=left>
