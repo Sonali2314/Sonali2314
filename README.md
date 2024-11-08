@@ -107,8 +107,7 @@ Frontend development technologies to build interactive web applications.<br/><br
 </div>
 
 
-### 🌟 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas! 
-### 🤝 You're also welcome to use my README as inspiration for creating your own profile. 💡 I'm always here to help if you need any assistance. 😊
+### 🌟 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or 🤝 collaboration ideas! 
 
 [![](https://visitcount.itsvg.in/api?id=Sonali2314&label=Profile%20Activity&color=2&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
