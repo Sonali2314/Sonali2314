@@ -101,10 +101,11 @@ Frontend development technologies to build interactive web applications.<br/><br
 
 
 ## 📊 My GitHub Stats:
-<div align=left>
-<img width=390 src="https://streak-stats.demolab.com/?user=Sonali2314&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali2314&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<p align="left">
+    <img width="390" src="https://streak-stats.demolab.com/?user=Sonali2314&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali2314&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+</p>
+
 
 
 ### 🌟 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or 🤝 collaboration ideas! 
