@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm Sonali Patil 👋
+# Hello, I'm Sonali Patil 👋
 
 ## ✨ About Me
 I’m a third-year B.Tech student in Computer Science and Engineering with a focus on Artificial Intelligence.<br/>
@@ -102,7 +102,7 @@ Frontend development technologies to build interactive web applications.<br/><br
 
 ## 📊 My GitHub Stats:
 <div align=left>
-<img width=390 src="https://streak-stats.demolab.com/?user=Sonali2314&count_private=true&theme=react&border_radius=10" alt="streak stats"/><br/><br/>
+<img width=390 src="https://streak-stats.demolab.com/?user=Sonali2314&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali2314&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
