@@ -1,114 +1,189 @@
+<!-- 💡 Banner -->
+<!-- <p align="center">
+  <img src="https://yourhost.com/sonali-banner.png" alt="Sonali Patil Banner" />
+</p> -->
+
+<!-- 👋 Typewriter Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=58A6FF&width=435&lines=Hey!+I'm+Sonali+Patil+%F0%9F%91%8B;AI+%2F+ML+Explorer+%F0%9F%A7%A0;Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Learner+%F0%9F%93%96;Let's+build+something+cool!" />
+</p>
+
+---
+
+## ✨ Who Am I?
+
+Hi! I’m **Sonali Patil**, a final-year B.Tech student majoring in **Artificial Intelligence and Machine Learning**.  
+I’m passionate about crafting intelligent systems, solving meaningful problems, and making tech human.
+
+> 🎯 *“AI won’t replace you. A person using AI will.”*
+
+I'm constantly learning, building, and experimenting — whether it's a smart healthcare project, a LeetCode streak, or late-night React hacks.
+
+---
+
+## 💼 Quick Snapshot
+
+- 🧠 Final Year | B.Tech CSE (AI)  
+- 🌱 Learning: Deep Learning • MERN Stack • Clean UI • ASP.NET & C#  
+- 👩‍💻 Former Vice President, AISA Club  
+- 🏆 Top 40 Team in Smart India Hackathon  
+- 🧩 Self-starter & passionate learner  
+
+---
+
+## 🔥 My Top Projects
+
+### 🔐 MediCard+ – Smart Healthcare System  
+A secure, AI-driven medical record management platform for doctors and patients. Built with React, Node.js, and MongoDB.  
+> ✅ Used in our capstone project to demonstrate real-time record syncing and health insights.
+
+[→ View Project](https://github.com/Sonali2314/MediCardPlus)
+
 <!--
-**Sonali2314/Sonali2314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### 🖼️ Project Preview:
+<img src="https://your-image-host.com/medicard-screenshot.png" alt="MediCard+ Screenshot" width="600"/>
 -->
-# Hello, I'm Sonali Patil 👋
 
-## ✨ About Me
-I’m a third-year B.Tech student in Computer Science and Engineering with a focus on Artificial Intelligence.<br/>
-Passionate about AI and Machine Learning, I’m always eager to dive into new technologies and solve interesting problems.<br/><br/>
+---
+<!--
+### 🤖 Disease Prediction ML App  
+A Python-based disease predictor trained on symptoms to classify common illnesses using Scikit-learn.
 
-## 🔭 Currently Working On :
-Enhancing my skills in AI and Machine Learning through various projects and coursework.<br/>
-Exploring new technologies and contributing to open-source projects.<br/><br/>
+> 🧪 Played with real datasets to simulate diagnostic assistance.
 
-## 🌱 Learning :
-Advanced concepts in AI and ML.<br/>
-Frontend development technologies to build interactive web applications.<br/><br/>
+[→ View Repo](https://github.com/Sonali2314/DiseasePredictor)
 
-## 🛠️ Tools & Technologies :
+---
 
-### Languages :
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 50 px;"/> 
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 50 px;"/> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin-right: 50 px;"/> 
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
+### 🎨 Neural Style Transfer  
+A deep learning model that blends content and style images using CNNs. A creative spin on AI + art.
+
+> 💡 Inspired by how AI sees beauty.
+
+[→ Code & Demo](#)
+
+---
+
+### 💬 Resume Analyzer  
+A project that parses resumes and compares them with job descriptions using NLP techniques.
+
+> 📄 Helps users get tailored resume insights.
+
+[→ GitHub Link](#)
+
+
+--- -->
+
+## 🛠️ Tech Stack I Work With
+
+### 👩‍💻 Languages  
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### Frontend Development :
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+### 🌐 Frontend  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-### ⚡Tools & Platforms :
- <p align="left">
- <a href="https://www.github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.jupyter.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter notebook" width="40" height="40"/> </a>
-   &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.vscode.dev/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" /> 
-</a
-<br/><br/><br/>
+### 🔧 Backend & Databases  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Tools-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-## 📫 How to Reach Me :
+### 🧠 AI & ML  
+<p>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
 
-<a href="https://www.linkedin.com/in/sonali-patil-662388257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-  <img src="https://img.shields.io/badge/Connect_with_me_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+### ⚙️ Tools & Platforms  
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> -->
+</p>
+
+---
+
+## 📈 GitHub Highlights
+
+<p align="center">
+<!--   <img src="https://streak-stats.demolab.com/?user=Sonali2314&theme=react&count_private=true&border_radius=10" alt="GitHub Streak" /> -->
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali2314&layout=compact&theme=react&border_radius=10&hide=html" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sonali2314&theme=react-dark" alt="Activity Graph"/>
+<!--   ![trophy](https://github-profile-trophy.vercel.app/?username=Sonali2314&theme=gruvbox&margin-w=15&no-frame=true) -->
+</p>
+
+
+
+---
+
+## 🔗 Connect With Me!
+
+<a href="https://www.linkedin.com/in/sonali-patil-662388257" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Sonali_Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:sonaligolden23@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Send-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+&nbsp;
+<a href="mailto:sonali.patil.dev23com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<br/>
 
-## ✨ Also see my other profiles:
+---
+
+## 💻 Coding Profiles
 
 <a href="https://leetcode.com/u/sonaligolden23/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Challenge_Yourself-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  <img src="https://img.shields.io/badge/LeetCode-@sonaligolden23-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.hackerrank.com/profile/sonaligolden23" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-Practice-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  <img src="https://img.shields.io/badge/HackerRank-Practice-green?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
-## My Badges
+---
+<!--
+## 🏅 HackerRank Badges
 
-<a href="https://www.hackerrank.com/profile/sonaligolden23" target="_blank">
-    <img src="badges_hackerrank.png" alt="My Badges in HackerRank" width="300">
-</a>
+<img src="badges_hackerrank.png" alt="My HackerRank Badges" width="300"/>
+
+--- -->
+
+## 😄 Fun Facts
+
+- ⚡ I vibe with code more than coffee  
+- 🎧 I write better code with lo-fi beats on loop  
+- 🌱 I love exploring new tech just for fun  
+- 🧩 Debugging is my second language  
+
+---
+
+## 👀 Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Sonali2314&label=Profile%20Views&color=0e75b6&style=flat)
 
 
-## 📊 My GitHub Stats:
-<p align="left">
-    <img width="390" src="https://streak-stats.demolab.com/?user=Sonali2314&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali2314&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
-</p>
-
-
-
-### 🌟 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or 🤝 collaboration ideas! 
-
-[![](https://visitcount.itsvg.in/api?id=Sonali2314&label=Profile%20Activity&color=2&icon=2&pretty=true)](https://visitcount.itsvg.in)
+⭐️ Thanks for visiting! Let's connect and collaborate!
 
