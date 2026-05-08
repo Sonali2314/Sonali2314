@@ -39,10 +39,6 @@ A secure, AI-driven medical record management platform for doctors and patients.
 
 [→ View Project](https://github.com/Sonali2314/MediCardPlus)
 
-### SDA - Machine and Asset Management Application
-A ASP.NET CORE WEB API and Blazor WASM based web application for Machines and Assets Management.
-
-[→ View Project](https://github.com/Sonali2314/SDA)
 <!--
 #### 🖼️ Project Preview:
 <img src="https://your-image-host.com/medicard-screenshot.png" alt="MediCard+ Screenshot" width="600"/>
